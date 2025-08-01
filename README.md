@@ -28,8 +28,8 @@ This repository contains a Django project built for learning and experimenting w
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/bithulmb/HackerNews.git
-   cd HackerNews
+   git clone https://github.com/bithulmb/python-graphql.git
+   cd python-graphql
    ```
 
 2. **Create a virtual environment and activate it:**
